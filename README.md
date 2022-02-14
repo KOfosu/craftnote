@@ -56,6 +56,6 @@ $ GET /direction
   - heading: number
   - target: number
 
-   # Example
+   # Sample request
    http://localhost:3000/direction?heading=310&target=75
 ```
