@@ -1,5 +1,5 @@
 import { Injectable } from "@nestjs/common";
-import { Directions } from "./types/enum";
+import { Directions } from "../apis/direction/types/enum";
 
 @Injectable()
 export default class DirectionManager {
